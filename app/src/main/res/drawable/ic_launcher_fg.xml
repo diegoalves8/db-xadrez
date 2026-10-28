@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Cavalo estilizado sobre tabuleiro 2x2 -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path android:fillColor="#F0D9B5" android:pathData="M30,30h24v24h-24zM54,54h24v24h-24z" />
+    <path android:fillColor="#B58863" android:pathData="M54,30h24v24h-24zM30,54h24v24h-24z" />
+    <path android:fillColor="#FFFFFF" android:strokeColor="#1C1C1C" android:strokeWidth="2.2"
+        android:strokeLineJoin="round"
+        android:pathData="M42,74 L66,74 L66,70 L62,66 C62,58 66,52 66,46 C66,38 60,33 52,33 L50,30 L47,35 C42,38 38,44 36,50 L40,54 L46,51 L48,53 C44,58 42,64 42,70 Z" />
+    <path android:fillColor="#1C1C1C" android:pathData="M51,40a2,2 0 1,0 4,0a2,2 0 1,0 -4,0" />
+</vector>
